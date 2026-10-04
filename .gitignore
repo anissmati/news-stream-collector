@@ -1,3 +1,4 @@
 .env
 news_dataset.db
 .venv/
+news_dataset.csv
